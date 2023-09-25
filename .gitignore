@@ -128,3 +128,16 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+.01-http-server/node_modules
+.02-websockets/node_modules
+.03-readFile/node_modules    
+.04-password/node_modules   
+.05-bundle/node_modules     
+.06-testing/node_modules       
+.07-routing/node_modules       
+.08-readstream/node_modules     
+.09-spawn/node_modules   
+.10-call-c/node_modules         
+.11-nest-graphql/node_modules
